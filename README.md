@@ -1,7 +1,3 @@
-Of course. Here is the updated `README.md` file with the references to Google Drive mounting removed from the instructions.
-
----
-
 # Pix2Pix Image-to-Image Translation
 
 This project uses a Pix2Pix (Generative Adversarial Network) model to perform image-to-image translation. The model is trained to learn the mapping from a "raw" input image to a corresponding "edited" target image.
