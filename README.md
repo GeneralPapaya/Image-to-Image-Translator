@@ -29,7 +29,7 @@ This repository contains two main Jupyter notebooks:
 
 ---
 
-## How to Use (Inference) 🚀
+## How to Use (Inference)
 
 To run the model and see predictions:
 
